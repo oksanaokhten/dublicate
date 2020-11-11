@@ -202,3 +202,9 @@ body {
     margin-top: 10px;
     color: #f05f40
 }
+
+@media(max-width:415px) {
+    .h1, h1 {
+    font-size: 1.9rem;
+    }
+}
